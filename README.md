@@ -12,11 +12,7 @@ Import all necessary packages and dataset that you need to implement Logistic Re
 ## Program:
 ```
 /*
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Amrita B S
-RegisterNumber: 212225100002
-*/
+
 import pandas as pd
 import numpy as np
 data=pd.read_csv("Placement_Data.csv")
